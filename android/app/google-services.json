@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "669230742560",
+    "project_id": "andromeda-chat-103f4",
+    "storage_bucket": "andromeda-chat-103f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669230742560:android:f129a0d41c82701ae61045",
+        "android_client_info": {
+          "package_name": "com.example.andromeda_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669230742560-jd9k90dklfrj0l637qab84a4pedht2l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANqMDU2_RmVoR4tu8n1WdMPv3TnitTeMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669230742560-jd9k90dklfrj0l637qab84a4pedht2l8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "669230742560-1ie11hq1n0mpo4833sftdhl14bic9t3t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.andromedaChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
